@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @sourabhmewada
-- 👀 I’m a student of Oriental college of technology Bhopal.
-- 🌱 I’m currently learning web and software developement
+# 👋 Hi, I'm Sourabh Mewada
 
+🎯 Aspiring Front-End Web Developer | 💡 Currently learning React.js  
+🌱 Exploring web technologies and building hands-on projects  
+📍 Based in Madhya Pradesh, India
 
-<!---
-sourabhmewada/sourabhmewada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Skills
+- HTML • CSS • JavaScript
+- Bootstrap • Tailwind
+- React.js (Learning)
+
+## 📫 Contact Me
+- 📧 Email: sourabhmewada28@gmail.com
