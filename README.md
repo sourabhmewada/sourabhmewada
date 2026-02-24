@@ -7,9 +7,10 @@
 ## 🛠️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,redux,tailwind,postman,ts,nextjs,nestjs,netlify,notion,npm,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
   </a>
 </p>
+
 
 ## 📫 Contact Me
 - 📧 Email: sourabhmewada28@gmail.com
